@@ -60,4 +60,5 @@ body{
 
 i{
     position: absolute;
+    z-index:-500000;
 }
